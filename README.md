@@ -1,14 +1,4 @@
 # Predictive-Modeling-of-Flight-Delay-Characteristics-to-Optimize-Operational-Performance
 
 
-
-Air transportation is a critical infrastructure that serves nearly 7 billion passenger enplanements a year, about 800 million of which are in the United States (Gopalakrishnan and Balakrishnan, 2017)				
-Digital age: minute news and weather from all over the world sent to our smartphones
-
-Extreme weather conditions: most common causes of flight delays and cancellations
-
-Wide range of weather conditions and flight delays
-
-Flight delays are inconvenient for the passengers 
-
-Aim of this research: Prediction of flight delays to alleviate the stress that they bring to our lives
+Every year the aviation industry faces a loss in revenue majorly due to flight delay issues. Flight delays can affect customers negatively directly impacting the aviation industry. Delays are thus costly for passengers and the airline industry. Thus, it is important to minimize flight delay issues, regardless of the wide range of airline congestions. A better understanding of the delay mechanism could lead to improved measures of cost saving and increasing customer satisfaction. In this study, we analyzed a publicly available data set from the Bureau of Transportation Statistics. We used Tableau, an analytics software for performing exploratory data analysis and further implemented predictive analysis of flight delays using machine learning. From our findings of the exploratory data analysis we observed that the maximum taxi-in time delay was in the city of Chicago followed by New York and Atlanta. Further, we found that the highest load factor was 86.03 and the lowest load factor was 2.15 with significant number of carriers having a load factor above 50. Our results from Random Forest machine learning algorithm revealed that the arrival delay can be estimated based on the destination, distance and other delay causes such as weather delay. This prediction is critical during the decision-making process for the aviation industry.
